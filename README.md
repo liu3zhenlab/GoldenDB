@@ -1,4 +1,4 @@
-# GoldenDB
-Thie repository is to save golden data.
+# collected_data
+Thie repository is to save some useful small data sets.
 
 o maize classical + curated genes
