@@ -1,4 +1,4 @@
 # collected_data
-Thie repository is to save some useful small data sets.
+Thie directory hosts some useful small data sets.
 
 o maize classical + curated genes
