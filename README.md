@@ -1,4 +1,6 @@
 # collected_data
 Thie directory hosts some useful small data sets.
 
-o maize classical + curated genes
+1. maize classical + curated genes
+2. maize gene2go table - (B73Ref4)
+
