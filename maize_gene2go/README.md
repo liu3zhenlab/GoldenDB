@@ -1,9 +1,11 @@
 ### maize_gene2go
 Data downloaded from "ftp://ftp.ensemblgenomes.org/pub/plants/release-32/mysql/zea_mays_core_32_85_7/"
 Three data were downloaded
+
 1. gene.txt.gz
 2. object_xref.txt.gz
 3. xref.txt.gz
+
 Header description of these files can be referred to https://uswest.ensembl.org/info/docs/api/core/core_schema.html#object_xref
 
 ```
