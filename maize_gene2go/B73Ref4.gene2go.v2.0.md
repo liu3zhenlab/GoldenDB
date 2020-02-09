@@ -1,4 +1,4 @@
-### maize_gene2go
+### maize_gene2go v2.0
 Data were downloaded from "ftp://ftp.ensemblgenomes.org/pub/plants/release-46/mysql/zea_mays_core_46_99_7/"  
 Three datasets were downloaded:
 
