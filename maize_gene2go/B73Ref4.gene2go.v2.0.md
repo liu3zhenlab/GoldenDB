@@ -1,5 +1,5 @@
 ### maize_gene2go
-Data were downloaded from "ftp://ftp.ensemblgenomes.org/pub/plants/release-46/mysql/zea_mays_core_46_99_7/"
+Data were downloaded from "ftp://ftp.ensemblgenomes.org/pub/plants/release-46/mysql/zea_mays_core_46_99_7/"  
 Three datasets were downloaded:
 
 gene.txt.gz
