@@ -1,6 +1,7 @@
 ### Maize B73 functional annotation
+#### B73Ref4.ensembl46.functional.annotation.txt
 
-#### current version: B73Ref4.ensembl46.functional.annotation.v1.txt
+#### version: v1
 **Data sources**
 1. Ensembl 46 
 2. Phytozome (as of 2/10/2020)
