@@ -42,5 +42,6 @@ genes2xref <- merge(genes2xrefid, xref2, by = "xref_id")
 # select GO for output
 go <- genes2xref[grepl("GO", genes2xref$dbprimary_acc), c("stable_id", "dbprimary_acc")]
 colnames(go) <- c("Gene", "GO")
+go <- go[!duplicated(paste(go$Gene, go$GO)), ] # remove redundancy
 write.table(go, "B73Ref4.gene2go.v2.0.txt", sep = "\t", quote = F, row.names = F)
 ```
