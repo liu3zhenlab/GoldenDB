@@ -1,7 +1,9 @@
 ### Maize B73 functional annotation
 #### B73Ref4.ensembl46.functional.annotation.txt
 
-#### version: v1
+#### version: v1.01
+Removed duplicated genes
+
 **Data sources**
 1. Ensembl 46 
 2. Phytozome (as of 2/10/2020)
